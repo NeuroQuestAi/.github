@@ -2,7 +2,7 @@
 
 ### Hello, World! 👋
 
-Welcome to **NeuroQuest** organization on GitHub where we love all things **open source**.
+Welcome to **NeuroQuest** organization on GitHub where we love :orange_heart: all things **open source**.
 
 **NeuroQuest** is a company focused on **cognitive solutions**. Our services expose **Machine Learning** APIs that enable developers and data scientists to easily integrate intelligent features such as
 individual's personality, emotions, easy recognition, speech and vision.
