@@ -5,7 +5,7 @@
 **NeuroQuest** is a company focused on **cognitive solutions**. Our services expose **Machine Learning** APIs that enable developers and data scientists to easily integrate intelligent features such as
 individual's personality, emotions, easy recognition, speech and vision.
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 
 We are **OpenSource**, main technologies used:
 
