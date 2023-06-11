@@ -2,7 +2,7 @@
 
 ### Hello, World! 👋
 
-Welcome to **NeuroQuest** organization on GitHub where we love :orange_heart: all things **open source**.
+Welcome to **NeuroQuest** organization on GitHub where we love all things **open source**.
 
 **NeuroQuest** is a company focused on **cognitive solutions**. Our services expose **Machine Learning** APIs that enable developers and data scientists to easily integrate intelligent features such as
 individual's personality, emotions, easy recognition, speech and vision.
@@ -24,6 +24,5 @@ We are **open source**, main technologies used:
 <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" alt="ScyllaDB" height="60" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/60539444?s=200&v=4" alt="JinaAi" height="60" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px"> 
-
 </p>
 
