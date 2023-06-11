@@ -9,7 +9,7 @@ individual's personality, emotions, easy recognition, speech and vision.
 
 ### 🧰 Languages and Tools
 
-We are **open source**, main technologies used:
+Main technologies used:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="60" style="vertical-align:top; margin:4px">
