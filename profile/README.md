@@ -1,13 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeuroQuestAi">
 
-### Hi there 👋
+### Hello, World! 👋
+
+Welcome to **NeuroQuest** organization on GitHub where we love :orange_heart: all things **open source**.
 
 **NeuroQuest** is a company focused on **cognitive solutions**. Our services expose **Machine Learning** APIs that enable developers and data scientists to easily integrate intelligent features such as
 individual's personality, emotions, easy recognition, speech and vision.
 
 ### 🧰 Languages and Tools
 
-We are **OpenSource**, main technologies used:
+We are **open source**, main technologies used:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="60" style="vertical-align:top; margin:4px">
