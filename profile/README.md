@@ -7,9 +7,7 @@ Welcome to **NeuroQuest** organization on GitHub where we love :orange_heart: al
 **NeuroQuest** is a company focused on **cognitive solutions**. Our services expose **Artificial Intelligence** APIs that enable developers 
 and data scientists to easily integrate intelligent features such as individual's personality, emotions, facial recognition, speech and vision.
 
-### 🧰 Languages and Tools
-
-Main technologies used:
+### 🧰 Main Technologies
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="60" style="vertical-align:top; margin:4px">
