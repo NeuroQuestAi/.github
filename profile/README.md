@@ -16,7 +16,7 @@ and data scientists to easily integrate intelligent features such as individual'
        alt="Rust" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
   
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+  <img src="https://raw.githubusercontent.com/edersoncorbari/edersoncorbari.github.io/master/assets/images/cpp-logo.png" 
        alt="C++" height="60" style="vertical-align:top; margin:4px"></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
   
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
