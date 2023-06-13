@@ -44,7 +44,7 @@ and data scientists to easily integrate intelligent features such as individual'
        alt="OpenCV" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.opencv.org/" target="_blank" rel="noreferrer">   
 
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/rabbitmq/rabbitmq-website/live/site/img/rabbitmq_logo_30x30.png" 
+  <img src="https://raw.githubusercontent.com/edersoncorbari/edersoncorbari.github.io/master/assets/images/rabbitmq.png" 
        alt="RabbitMQ" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">   
 
 <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer"> 
