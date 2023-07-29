@@ -2,9 +2,9 @@
 
 ### Hello, World! 👋
 
-Welcome to **NeuroQuest** organization on GitHub where we love :orange_heart: all things **open source**.
+Welcome to **NeuroQuestAI** organization on GitHub where we love :orange_heart: all things **open source**.
 
-**NeuroQuest** is a company focused on **cognitive solutions**. Our services expose **Artificial Intelligence** APIs that enable developers 
+**NeuroQuestAI** is a company focused on **cognitive solutions**. Our services expose **Artificial Intelligence** APIs that enable developers 
 and data scientists to easily integrate intelligent features such as individual's personality, emotions, facial recognition, speech and vision.
 
 ### 🧰 Main Technologies
@@ -30,7 +30,11 @@ and data scientists to easily integrate intelligent features such as individual'
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
        alt="Docker" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" 
+       alt="RabbitMQ" height="60" style="vertical-align:top; margin:4px"></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer">   
+
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
        alt="TensorFlow" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
@@ -51,12 +55,8 @@ and data scientists to easily integrate intelligent features such as individual'
   <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" 
        alt="ScyllaDB" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">   
 
-<a href="https://jina.ai/" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/60539444?s=200&v=4" 
-       alt="JinaAi" height="60" style="vertical-align:top; margin:4px"></a><a href="https://jina.ai/" target="_blank" rel="noreferrer">   
-
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-       alt="Linux" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.debian.org/" target="_blank" rel="noreferrer">   
+<a href="https://www.opensuse.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original.svg" 
+       alt="OpenSuse Linux" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">   
  
 </p>
