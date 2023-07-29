@@ -2,9 +2,9 @@
 
 ### Hello, World! 👋
 
-Welcome to **NeuroQuestAI** organization on GitHub where we love :orange_heart: all things **open source**.
+Welcome to **NeuroQuestAI** organization on GitHub where we love :orange_heart: all things **Open Source**.
 
-**NeuroQuestAI** is a company focused on **cognitive solutions**. Our services expose **Artificial Intelligence** APIs that enable developers 
+**NeuroQuestAI** 🇧🇷 is a company focused on **cognitive solutions**. Our services expose **Artificial Intelligence** APIs that enable developers 
 and data scientists to easily integrate intelligent features such as individual's personality, emotions, facial recognition, speech and vision.
 
 ### 🧰 Main Technologies
