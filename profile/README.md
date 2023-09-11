@@ -42,6 +42,10 @@ and data scientists to easily integrate intelligent features such as individual'
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" 
        alt="Scikit-Learn" height="60" style="vertical-align:top; margin:4px"></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" 
+       alt="Google Cloud" height="60" style="vertical-align:top; margin:4px"></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
   
 <a href="https://www.opencv.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" 
