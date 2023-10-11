@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeuroQuestAi">
 
-### Hello, World! 👋
+### [Hello, World!](https://neuroquest.ai/) 👋
 
-Welcome to **NeuroQuestAI** organization on GitHub where we love :orange_heart: all things **Open Source**.
+Welcome to [NeuroQuestAI](https://neuroquest.ai/) organization on GitHub where we love :orange_heart: all things **Open Source**.
 
 **NeuroQuestAI** 🇧🇷 is a company focused on **cognitive solutions**. Our services expose **Artificial Intelligence** APIs that enable developers 
 and data scientists to easily integrate intelligent features such as individual's personality, emotions, facial recognition, speech and vision.
@@ -62,5 +62,9 @@ and data scientists to easily integrate intelligent features such as individual'
 <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original.svg" 
        alt="OpenSuse Linux" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">   
- 
+         
+ <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" 
+       alt="Debian Linux" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.debian.org/" target="_blank" rel="noreferrer">   
+  
 </p>
