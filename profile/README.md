@@ -59,12 +59,5 @@ and data scientists to easily integrate intelligent features such as individual'
   <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" 
        alt="ScyllaDB" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">   
 
-<a href="https://www.opensuse.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original.svg" 
-       alt="OpenSuse Linux" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">   
-         
- <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" 
-       alt="Debian Linux" height="60" style="vertical-align:top; margin:4px"></a><a href="https://www.debian.org/" target="_blank" rel="noreferrer">   
-  
+
 </p>
