@@ -13,7 +13,7 @@ data into meaningful results, exceeding our clients' expectations.
 <p align="center">
   
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" 
        alt="Rust" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"></a>
   
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
