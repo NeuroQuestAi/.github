@@ -4,7 +4,7 @@
 
 Welcome to [NeuroQuestAI](https://neuroquest.ai/) organization on GitHub where we love :orange_heart: all things **Open Source**.
 
-We are a startup 🇧🇷 specializing in **cognitive solutions**, creating innovative products for the fields of Human Resources, Marketing, Sales, and Education. We 
+We are a startup 🇧🇷 specializing in **cognitive solutions**, creating innovative products for the fields of Human Resources and Education. We 
 harness advanced artificial intelligence to analyze personality traits in texts, audio, and videos, providing impactful and personalized experiences. We transform 
 data into meaningful results, exceeding our clients' expectations.
 
