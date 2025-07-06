@@ -10,58 +10,18 @@ data into meaningful results, exceeding our clients' expectations.
 
 ### 🧰 Main Technologies
 
-<p align="center">
-  
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" 
-       alt="Rust" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"></a>
-  
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/edersoncorbari/edersoncorbari.github.io/master/assets/images/cpp-logo.png" 
-       alt="C++" height="48" style="vertical-align:top; margin:4px"></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"></a> 
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-       alt="Python" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.python.org" target="_blank" rel="noreferrer"></a>
-  
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
-       alt="Jupyter" height="48" style="vertical-align:top; margin:4px"></a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"></a> 
-  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-       alt="Docker" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"></a> 
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://www.opencv.org/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![ScyllaDB](https://img.shields.io/badge/ScyllaDB-00B8F4?style=for-the-badge&logo=scylladb&logoColor=white)](https://www.scylladb.com/)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" 
-       alt="RabbitMQ" height="48" style="vertical-align:top; margin:4px"></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"></a>   
 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
-       alt="TensorFlow" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"></a> 
-  
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" 
-       alt="Scikit-Learn" height="48" style="vertical-align:top; margin:4px"></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"></a> 
-
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" 
-       alt="Google Cloud" height="48" style="vertical-align:top; margin:4px"></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"></a> 
-  
-<a href="https://www.opencv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" 
-       alt="OpenCV" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.opencv.org/" target="_blank" rel="noreferrer"></a>   
-
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/edersoncorbari/edersoncorbari.github.io/master/assets/images/rabbitmq-2.png" 
-       alt="RabbitMQ" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"></a>   
-
-<a href="https://www.scylladb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" 
-       alt="ScyllaDB" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.scylladb.com/" target="_blank" rel="noreferrer"></a>   
-
- <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" 
-       alt="Debian Linux" height="48" style="vertical-align:top; margin:4px"></a><a href="https://www.debian.org/" target="_blank" rel="noreferrer"></a>
-         
-</p>
